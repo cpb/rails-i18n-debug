@@ -7,8 +7,8 @@ Gem::Specification.new do |s|
   # Main Info
   s.name = "rails-i18n-debug"
   s.version = RailsI18nDebug::VERSION
-  s.summary = "a hook to debug the rails i18n lookup keys"
-  s.description = "a hook to debug the rails i18n lookup keys"
+  s.summary = "a hook to debug how rails-i18n lookup keys"
+  s.description = "a hook to debug how rails-i18n lookup keys"
   s.license = "MIT"
 
   # Additional Info
