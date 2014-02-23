@@ -6,7 +6,7 @@ Always wanted to know how rails lookups for your i18n keys? Run:
 
 And alter your Gemfile:
 
-	group :development do
+	group :development, :test do
 		gem "rails-i18n-debug"
 	end
 
